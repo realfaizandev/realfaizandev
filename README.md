@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Faizan Ali Bukhari
 ### Junior MERN Stack Developer | Crafting Modern, Animated Web Experiences
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%2B+Tailwind+%2B+DaisyUI+Enthusiast;Building+Real-time+%26+3D+Web+Experiences;Open+to+Internships+%26+Freelance+Work" alt="Typing SVG" />
