@@ -1,82 +1,118 @@
-# Hi there, I'm a Full-Stack Developer! 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e7490&style=flat-block" alt="Profile Views" />
-</p>
+# Hi 👋, I'm [Your Name]
+### Junior MERN Stack Developer | Crafting Modern, Animated Web Experiences
 
-I am a passionate **MERN Stack Developer** who loves building clean, modern, and highly responsive web applications. I focus on creating smooth user experiences with premium aesthetics, fluid animations, and robust backend architectures.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%2B+Tailwind+%2B+DaisyUI+Enthusiast;Building+Real-time+%26+3D+Web+Experiences;Open+to+Internships+%26+Freelance+Work" alt="Typing SVG" />
 
-- 🚀 Currently leveling up my skills and working on exciting remote internship projects.
-- ⚡ Fast learner, open to collaboration, and passionate about clean code architecture.
-- 🎯 Goal: Building scalable web solutions that solve real-world problems.
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🧑‍💻 About Me
 
-With a strong foundation in building full-stack applications, here are the technologies and tools I work with:
+> 🚀 6 months into my journey as a **MERN Stack Developer**, building production-grade, full-stack applications with a strong focus on **UI/UX**, performance, and clean architecture.
 
-#### **Frontend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### **Backend & Database**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
-</p>
-
-#### **State Management & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Zustand-444444?style=for-the-badge&logoColor=white" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+- 🎓 **Education:** Intermediate of Computer Science (ICS)
+- 📜 **Certification:** NAVTTC Full Stack Web Development
+- 💻 Passionate about crafting **premium, responsive interfaces** with smooth animations using **Tailwind CSS** & **DaisyUI**
+- 🌱 Currently leveling up in **real-time apps**, **state management**, and **3D web experiences** with Three.js
+- 🤝 Open to collaboration on open-source projects, internships, and freelance opportunities
 
 ---
 
-### 📂 Featured Projects
+## 🛠️ Tech Stack & Tools
 
-Here are some of the key applications I've engineered:
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-1AD1A5?style=flat-square&logo=daisyui&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Lucide](https://img.shields.io/badge/Lucide_Icons-F56565?style=flat-square&logo=lucide&logoColor=white)
 
-*   **Real-Time Chat Application** — A fully-featured chat app utilizing Socket.io for instant messaging, secured completely with JSON Web Tokens (JWT) and backed by MongoDB.
-*   **Trek Bag** — A sleek, premium productivity tool built using the latest React features and powered by Zustand for lightweight, lightning-fast state management.
-*   **Product Management Dashboard** — A clean, responsive CRUD application designed with modern UI/UX principles using Tailwind CSS to manage inventories seamlessly.
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🔄 State Management
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
+
+### 🧰 Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realfaizandev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realfaizandev&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+### 💬 Real-Time Chat Application
+A full-stack real-time messaging app with secure authentication and instant communication.
+- 🔐 JWT-based authentication & authorization
+- ⚡ Real-time messaging powered by Socket.io
+- 🎨 Responsive UI built with Tailwind CSS & DaisyUI
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realfaizandev&theme=tokyonight" alt="GitHub Streak" width="98%" />
-</p>
+`MongoDB` `Express.js` `React.js` `Node.js` `Socket.io` `JWT`
 
 ---
 
-### 🤝 Connect with Me
+### 🎒 Trek Bag — Smart Packing Companion
+A sleek, minimalist productivity tool to plan and organize travel packing lists effortlessly.
+- ⚛️ Built with React 19.2 (latest features)
+- 🐻 Lightweight state management with Zustand
+- ✨ Smooth UI transitions & premium design
 
-Let's discuss web development, open-source projects, or potential opportunities!
+`React 19.2` `Zustand` `Tailwind CSS` `DaisyUI`
 
-<p align="left">
-  <a href="https://linkedin.com/in/faizanalibukhariE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:s.faizan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+---
+
+### 📦 Product Management Application
+A full-stack CRUD application for managing products with optimized state handling.
+
+- 🔄 Complete Create, Read, Update, Delete operations
+- 🗂️ Optimal global state management
+- 🎯 Clean, scalable, and modular code architecture
+
+`MongoDB` `Express.js` `React.js` `Node.js` `Redux / Zustand`
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizanalibukhari)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realfaizandev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.faizanalib@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ *"Always learning, always building."* ⭐️
+
+</div>
